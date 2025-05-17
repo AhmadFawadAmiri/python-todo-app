@@ -154,7 +154,7 @@ def todo_app():
             print("📅 Last updated: 2025")
             print("\n👨‍💻 AUTHOR INFO")
             print("📛 Name: Ahmad Fawad Amiri")
-            print("🌐 Country: Afghanistan")
+            print("🌐 Country: Germany")
             print("💼 Role: Python Learner & Developer")
             print("📧 Email: a**************i@gmail.com")
             print("📚 Goal: Learn Python from scratch to mastery 🚀")
